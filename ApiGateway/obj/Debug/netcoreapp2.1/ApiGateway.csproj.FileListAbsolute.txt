@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CRM\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.deps.json
+C:\Users\Admin\source\repos\CRM\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.json
+C:\Users\Admin\source\repos\CRM\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CRM\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.dll
+C:\Users\Admin\source\repos\CRM\ApiGateway\bin\Debug\netcoreapp2.1\ApiGateway.pdb
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.dll
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\ApiGateway.pdb
+C:\Users\Admin\source\repos\CRM\ApiGateway\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

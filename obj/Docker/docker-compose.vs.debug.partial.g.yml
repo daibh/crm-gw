@@ -1,0 +1,39 @@
+version: '3.4'
+
+services:
+  accountance:
+    image: accountance:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_accountance$
+    volumes:
+      - C:\Users\Admin\source\repos\CRM\Accountance:/app
+      - C:\Users\Admin\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_accountance$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_accountance$ \"bin/Debug/netcoreapp2.1/Accountance.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+
+  apigateway:
+    image: apigateway:dev
+    build:
+      target: base
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_apigateway$
+    volumes:
+      - C:\Users\Admin\source\repos\CRM\ApiGateway:/app
+      - C:\Users\Admin\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_apigateway$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_apigateway$ \"bin/Debug/netcoreapp2.1/ApiGateway.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+

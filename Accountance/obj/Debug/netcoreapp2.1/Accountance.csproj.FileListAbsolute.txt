@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CRM\Accountance\bin\Debug\netcoreapp2.1\Accountance.deps.json
+C:\Users\Admin\source\repos\CRM\Accountance\bin\Debug\netcoreapp2.1\Accountance.runtimeconfig.json
+C:\Users\Admin\source\repos\CRM\Accountance\bin\Debug\netcoreapp2.1\Accountance.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CRM\Accountance\bin\Debug\netcoreapp2.1\Accountance.dll
+C:\Users\Admin\source\repos\CRM\Accountance\bin\Debug\netcoreapp2.1\Accountance.pdb
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.dll
+C:\Users\Admin\source\repos\CRM\Accountance\obj\Debug\netcoreapp2.1\Accountance.pdb
